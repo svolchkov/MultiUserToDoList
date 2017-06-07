@@ -1,0 +1,12 @@
+body {
+    background-color: powderblue;
+    font-family: 'arial';
+    font-size: 24px;
+}
+.list-group-item {
+	background-color: lightgray;
+}
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+}/* CSS declarations go here */
